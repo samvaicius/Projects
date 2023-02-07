@@ -12,7 +12,11 @@ incorporating the functionality of rotating images to enhance its visual appeal.
 Loom: <a href="https://www.loom.com/share/a35877f2a3704d059268b5eb5fb7e202" target="_blank">Demo Video</a>
 <br/>
 <br/>
-The objective of this project was to recreate a digital representation of a captured image through the utilization of vertexes, shaders, and textures, 
-with the aim of constructing shapes and delivering a visually accurate portrayal.
+This project aimed to reproduce a captured image in digital form by utilizing vertexes, shaders, and textures to construct shapes, resulting in a visually precise representation.
 
+<h2>Battle of Altair</h2>
+Loom: <a href="https://www.loom.com/share/1bcf37f1d00645e4bd087f796a35a870" target="_blank">Demo Video</a>
+<br/>
+<br/>
+This project presents a text-based game in which the player engages in combat with multiple enemies in an effort to reach the final objective. It employs inheritance and object-oriented programming principles to facilitate a cleaner and more organized code structure.
 
