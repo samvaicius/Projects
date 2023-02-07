@@ -2,6 +2,8 @@
 
 This is an OpenGL project done by Lucas Lasecla and Sammie Vaicius
 
+Loom Demo: https://www.loom.com/share/a35877f2a3704d059268b5eb5fb7e202
+
 To run this program you must have:
     g++
     glut
