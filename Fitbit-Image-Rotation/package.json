@@ -1,0 +1,22 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~4.3.0"
+  },
+  "fitbit": {
+    "appUUID": "daed3747-57bf-4a4b-aaeb-5989b1fe418f",
+    "appType": "clockface",
+    "appDisplayName": "Switching Pictures",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "mira"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "Switching Pictures"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}

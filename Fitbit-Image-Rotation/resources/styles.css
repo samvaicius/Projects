@@ -1,0 +1,15 @@
+.background {
+  viewport-fill: red;
+}
+
+#myLabel {
+  font-size: 58;
+  font-family: System-Regular;
+  text-length: 30;
+  text-anchor: middle;
+  x: 76%;
+  y: 20%;
+  fill: white;
+}
+
+.inner { width: 46%; height: 20%; x: 54%; y: 3%; fill: fb-lavender; }

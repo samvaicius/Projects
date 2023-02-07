@@ -1,0 +1,8 @@
+<svg>
+  <use id="myanimation" href="#frames" />
+  
+  <rect class="inner" />
+  
+  <text id="myLabel"></text>
+  
+</svg>
