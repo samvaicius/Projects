@@ -8,8 +8,7 @@ Loom: <a href="https://www.loom.com/share/fa0e21ea1640480a8bdf91d23436b473" targ
 
 <h2>Goal</h2>
 
-Fitbit had no app / clockface that resembled the rotating image clock face of apple watches and I wanted a solution to that. 
-This is a personal solution due to the images needing to be directly imported through code and resources.  
+The lack of an app or clock face that mimicked the visually dynamic rotating image clock face of Apple Watches on Fitbit devices prompted the need for a solution. This project aims to address this gap by utilizing custom code and resources to directly import and display images on the Fitbit device, fulfilling a personal requirement for a more immersive user experience.
 
 
 <h2>Installation</h2>
