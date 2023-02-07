@@ -4,7 +4,7 @@
 <br>Javascript using the FitBit SDK</p>
 <br/>
 <h2>Demo</h2>
-Loom: https://www.loom.com/share/fa0e21ea1640480a8bdf91d23436b473 
+Loom: <a href="https://www.loom.com/share/fa0e21ea1640480a8bdf91d23436b473" target="_blank">Demo Video</a>
 
 <h2>Goal</h2>
 
