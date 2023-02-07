@@ -8,7 +8,8 @@ Loom: <a href="https://www.loom.com/share/a35877f2a3704d059268b5eb5fb7e202" targ
 
 <h2>Goal</h2>
 
-Goal of this project was to recreate a captured image and portray it using vertexes to create shapes, shaders, and textures. 
+The objective of this project was to recreate a digital representation of a captured image through the utilization of vertexes, shaders, and textures, 
+with the aim of constructing shapes and delivering a visually accurate portrayal.
 
 
 <h2>Installation</h2>
