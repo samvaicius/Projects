@@ -7,8 +7,8 @@ Loom: <a href="https://www.loom.com/share/fa0e21ea1640480a8bdf91d23436b473" targ
 The objective of this project is to design a clock face that resembles that of an Apple Watch, 
 incorporating the functionality of rotating images to enhance its visual appeal.
 
-<h2>Butterfly Effect Project</h2>
-Loom: <a href="https://www.loom.com/share/fa0e21ea1640480a8bdf91d23436b473" target="_blank">Demo Video</a>
+<h2>Butterfly Effect </h2>
+Loom: <a href="[https://www.loom.com/share/fa0e21ea1640480a8bdf91d23436b473](https://github.com/samvaicius/Projects/blob/main/ButterflyEffect/CST%20305%20Project%207.docx)" target="_blank">Research Document</a>
 <br/>
 <br/>
 This project uses the Lorenz System to model chaotic behavior in memory. Chaotic systems are highly sensitive to initial conditions and that sensitivity is best known as the butterfly effect. 
