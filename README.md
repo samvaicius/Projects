@@ -8,7 +8,7 @@ The objective of this project is to design a clock face that resembles that of a
 incorporating the functionality of rotating images to enhance its visual appeal.
 
 <h2>Butterfly Effect </h2>
-Word Document <a href="https://github.com/samvaicius/Projects/blob/main/ButterflyEffect/CST%20305%20Project%207.docx" target="_blank">Research Document</a>
+Word Document: <a href="https://github.com/samvaicius/Projects/blob/main/ButterflyEffect/CST%20305%20Project%207.docx" target="_blank">Research Document</a>
 <br/>
 <br/>
 This project uses the Lorenz System to model chaotic behavior in memory. Chaotic systems are highly sensitive to initial conditions and that sensitivity is best known as the butterfly effect. 
